@@ -1,0 +1,3 @@
+[submodule "Micro-RTSP"]
+	path = Micro-RTSP
+	url = git@github.com:bartlomiejcieszkowski/Micro-RTSP.git
